@@ -39,8 +39,8 @@ a{
     padding-top : 30px;
 }
 img{
-    height: 200px;
-    width: 280px;
+    height: 150px;
+    width: 230px;
 }
 .web-awesome{
     color: white;
@@ -61,4 +61,24 @@ button{
     width: 100px;
     border-radius: 8px;
     border: none;
+}
+.text2{
+    font-size: 30px;
+    color: #1F2937;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+.photo-image{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    color: rgba(0, 0, 0, 0.822);
+    gap: 5px;
+}
+.order{
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
 }
