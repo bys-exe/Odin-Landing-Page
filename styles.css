@@ -82,3 +82,22 @@ button{
     flex-direction: column;
     margin: 0px;
 }
+.content3{
+    padding: 70px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB
+}
+.quote{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 100;
+    color: #1F2937
+}
+.by{
+    display:flex;
+    justify-content:flex-end;
+    font-weight: bold;
+    color: #1F2937
+}
